@@ -32,5 +32,9 @@
     "excel"
   ],
   "author": "Patrice Mueller",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swissonid/translator.git"
+  }
 }
