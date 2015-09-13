@@ -1,0 +1,1 @@
+{"version":3,"sources":["lib/Word.ts"],"names":["Word","Word.constructor"],"mappings":"AAAA;IAAAA;IAGAC,CAACA;IAADD,WAACA;AAADA,CAHA,AAGCA,IAAA;AAHD,sBAGC,CAAA","file":"lib/Word.js","sourcesContent":["export default class Word {\n    key: string;\n    value: string;\n}\n"],"sourceRoot":"/source/"}

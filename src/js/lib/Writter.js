@@ -1,10 +1,13 @@
-var Writter;
-(function (Writter) {
+var Writer;
+(function (Writer) {
     var AndroidWriter = (function () {
         function AndroidWriter() {
         }
+        AndroidWriter.prototype.convert = function (data) {
+        };
         return AndroidWriter;
     })();
-})(Writter || (Writter = {}));
+    Writer.AndroidWriter = AndroidWriter;
+})(Writer || (Writer = {}));
 
 //# sourceMappingURL=../lib/Writter.js.map
