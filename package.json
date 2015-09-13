@@ -1,0 +1,36 @@
+{
+  "name": "Translator",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.0",
+    "gulp-inject": "^1.5.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-tslint": "^3.2.0",
+    "gulp-typescript": "^2.8.2",
+    "gulp-util": "^3.0.6",
+    "mocha": "^2.3.2",
+    "traceur": "0.0.87"
+  },
+  "description": "It converts an excel file all translation's in it to usefull format for android & ios",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "android",
+    "ios",
+    "excel"
+  ],
+  "author": "Patrice Mueller",
+  "license": "MIT"
+}
